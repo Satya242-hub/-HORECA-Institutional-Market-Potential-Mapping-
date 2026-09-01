@@ -45,13 +45,6 @@ Compare territory potential
 Identify outlet segments with higher opportunity
 Support distributor and secondary-sales-force planning
 
-## <mark>Tools Used</mark>
-
-Microsoft Excel
-Data Validation
-Conditional Formatting
-Excel Charts
-Basic Sales & Market Analysis
 
 ## <mark>Important Note</mark>
 
